@@ -25,7 +25,7 @@ Third-Party Booking APIs: Integration with booking services to facilitate reserv
 To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine:
-git clone https://github.com/yourusername/pharaohs-path.git
+git clone https://github.com/MoWael-Encrypted/Pharaoh-s-Path.git
 
 2. Navigate to the project directory:
 cd pharaohs-path
